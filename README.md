@@ -84,3 +84,4 @@ You can easily customize your links and content:
 - **Contact Links**: Open [`src/components/Contact.tsx`](file:///Users/piyushhere/portfolio/src/components/Contact.tsx#L5-L21) and replace `YOUR_USERNAME` and `your.email@example.com` with your actual handles.
 - **Projects & Demos**: Open [`src/components/Projects.tsx`](file:///Users/piyushhere/portfolio/src/components/Projects.tsx#L16-L53) to link your real GitHub repositories and live deployments.
 - **Achievements & Dates**: Open [`src/components/Achievements.tsx`](file:///Users/piyushhere/portfolio/src/components/Achievements.tsx#L4-L45) to input your official event names, dates, and certificate links.
+
